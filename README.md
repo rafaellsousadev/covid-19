@@ -11,7 +11,7 @@
   
   <hr>
     <p>Para instalar o pacote basta usar o comando : <b>~$ pip install covid</b></p>
-    <p>Documentação do pacote Python Covid : https://lnkd.in/dHpDHT2</p>
+    <p>Documentação do pacote Python Covid : https://ahmednafies.github.io/covid/</p>
     <p>#python #covid19</p>
 
   </hr>
