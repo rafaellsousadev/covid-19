@@ -1,3 +1,7 @@
 .idea/
 lib64/
 lib64
+share/
+bin/
+lib/
+pyvenv.cfg

@@ -1,14 +1,15 @@
 # Criado por Rafael Sousa Pereira
-# GitHub : https://github.com/rafael-sousa-pereira-smile/covid-19/blob/covid19/main/dev_covid-19.py
+# GitHub : https://github.com/rafaellsousadev/covid-19
 
-# Documentação do Módulo : https://pypi.org/project/covid/
+# Documentação do Pacote Covid : https://pypi.org/project/covid/
 
 # Importando as bibliotecas necessárias
 from covid import Covid
 from datetime import datetime as dt
 
 
-# definindo uma função CovidAtualizacaoMundo() para pegar as informações dos Casos de Covid-19
+# definindo uma função CovidAtualizacaoMundo() para pegar as informações dos Casos de Covid-19brazil
+
 def CovidAtualizacaoMundo():
     # buscar número de casos ativos confirmados & total de recuperadores & mortes
     total_casos_mundo_ativos = Covid().get_total_active_cases()
