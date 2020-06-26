@@ -1,4 +1,4 @@
-# covid-19
+# Covid-19
 
 <h1>Script Python Covid-19</h1> 
 
