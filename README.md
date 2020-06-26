@@ -4,8 +4,8 @@
 
 <body>
   
-  <p>Criei um script <strong>Python</strong> para obter as atualizações em tempo real em todo mundo.</p>
-  <p>Para isso utilizei o Pacote <a href="https://pypi.org/project/covid/" target="_blank">Covid</a></p> 
+  <p>Criei um script <strong>Python</strong> para obter as atualizações em tempo real em todo mundo.
+  Para isso utilizei o Pacote <a href="https://pypi.org/project/covid/" target="_blank">Covid.</a></p> 
   <p>O covid é um Pacote <b>Python</b> para obter informações sobre o novo <strong>corona vírus</strong> fornecido pela 
   <strong>Universidade Johns Hopkins</strong> e a <strong>worldeters.info</strong></p
   
